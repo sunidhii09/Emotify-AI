@@ -1,6 +1,6 @@
 # Speech Emotion Recognition Music System
 
-Welcome to my project repository! This project presents a practical implementation of a music system using speech emotion recognition (SER) to recommend personalized playlists based on the user’s emotional state. The goal is to enhance the user's mood by providing music that resonates with their current emotions.
+Welcome to my project repository! This project presents a practical implementation of a music system using speech emotion recognition (SER) to recommend personalized playlists based on the user’s emotional state. The goal is to enhance the user's mood by providing music that resonates with their current emotions. Have a look while I work on improving this system further!
 
 ## Overview
 
