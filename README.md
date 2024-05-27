@@ -1,6 +1,6 @@
 # Speech Emotion Recognition Music System
 
-Welcome to my project repository! This project presents a practical implementation of a music system using speech emotion recognition (SER) to recommend personalized playlists based on the user’s emotional state. The goal is to enhance the user's mood by providing music that resonates with their current emotions. Have a look while I work on improving this system further!
+This project presents a practical implementation of a music system using speech emotion recognition (SER) to recommend personalized playlists based on the user’s emotional state. The goal is to enhance the user's mood by providing music that resonates with their current emotions.
 
 ## Overview
 
@@ -31,3 +31,7 @@ To get started with using our system, follow these steps:
 2. **Install Dependencies**: Ensure you have all the necessary dependencies installed.
   
 3. **Run the System**: Execute the 'playlist-generation.ipynb' script  to start the music system, input your file and enjoy the personalized playlists!
+
+## Collaborators
+@Shivanant
+
