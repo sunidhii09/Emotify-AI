@@ -33,6 +33,6 @@ To get started with using our system, follow these steps:
 3. **Run the System**: Execute the 'playlist-generation.ipynb' script  to start the music system, input your file and enjoy the personalized playlists!
 
 ## Collaborators
-@Shivanant
+https://github.com/Shivanant
 
 
