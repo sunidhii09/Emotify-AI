@@ -30,7 +30,7 @@ To get started with using our system, follow these steps:
   
 2. **Install Dependencies**: Ensure you have all the necessary dependencies installed.
   
-3. **Run the System**: Execute the 'playlist-generation.ipynb' script  to start the music system, input your file and enjoy the personalized playlists!
+3. **Run the System**: Execute the 'playlist_generation.ipynb' script  to start the music system, input your file and enjoy the personalized playlists!
 
 ## Collaborators
 https://github.com/Shivanant
